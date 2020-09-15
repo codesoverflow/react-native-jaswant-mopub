@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/e095371ad13cec53b400cddea628bf76/jetified-react-native-0.63.2/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/music_with_title_landscape.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/music_with_title_landscape.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/settings_list.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/settings_list.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/e095371ad13cec53b400cddea628bf76/jetified-react-native-0.63.2/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_list_divider.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/minimal_transport_controls.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/minimal_transport_controls.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/sub_settings_list_item.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/sub_settings_list_item.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_playback_control_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/e095371ad13cec53b400cddea628bf76/jetified-react-native-0.63.2/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_simple_player_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/music_with_title_portrait.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/music_with_title_portrait.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/embedded_transport_controls.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/embedded_transport_controls.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_player_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/e095371ad13cec53b400cddea628bf76/jetified-react-native-0.63.2/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_track_selection_dialog.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/exo_player_control_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/cb483799adaf079b6b4e48e8ca68d31a/exoplayer-ui-2.11.0/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/music_without_title.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/music_without_title.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/bc8dc435b9a736a095a262fe740c6af0/media-1.1.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/full_transport_controls.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/full_transport_controls.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/settings_list_item.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/settings_list_item.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/media_controller.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/ae8355bc9e0f59b5f484b1bb0c59d5ba/media2-widget-1.0.1/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/var/codes/react-native/modules/react-native-jaswant-mopub/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/home/jaswant/.gradle/caches/transforms-2/files-2.1/e095371ad13cec53b400cddea628bf76/jetified-react-native-0.63.2/res/layout/dev_loading_view.xml"
+    }
+]
