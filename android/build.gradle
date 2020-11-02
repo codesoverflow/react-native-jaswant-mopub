@@ -38,8 +38,26 @@ buildscript {
     }
 }
 
+
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
+
+
+apply from: file("./firebase-json.gradle")
+
+def firebaseJSONAdmobAppIDString = ""
+def firebaseJSONAdmobDelayAppMeasurementInitBool = false
+
+if (rootProject.ext.firebaseJson) {
+  firebaseJSONAdmobAppIDString = rootProject.ext.firebaseJson.getStringValue("admob_android_app_id", "")
+  firebaseJSONAdmobDelayAppMeasurementInitBool = rootProject.ext.firebaseJson.isFlagEnabled("admob_delay_app_measurement_init")
+}
+
+if (!firebaseJSONAdmobAppIDString) {
+  // todo throw a build error?
+}
+
+
 
 android {
     compileSdkVersion safeExtGet('compileSdkVersion', DEFAULT_COMPILE_SDK_VERSION)
@@ -50,6 +68,11 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
+
+        manifestPlaceholders = [
+            firebaseJSONAdmobAppID                  : firebaseJSONAdmobAppIDString,
+            firebaseJSONAdmobDelayAppMeasurementInit: firebaseJSONAdmobDelayAppMeasurementInitBool
+        ]
     }
     lintOptions {
         abortOnError false
@@ -72,9 +95,14 @@ repositories {
 }
 
 dependencies {
-    implementation('com.mopub:mopub-sdk:+@aar') {
+    implementation('com.mopub:mopub-sdk:5.13.0@aar') {
         transitive = true
     }
+    
+
+    implementation 'com.google.android.gms:play-services-ads:17.1.2'
+    implementation 'com.mopub.mediation:admob:17.1.2.4'
+
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
 }
